@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClusterMap2Part2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="point_number_x">Point #%1$s</string>
+    
+    
+    <string name="maps_api_key">AIzaSyBYqjpco9qcKWPSOCZMa4IL0kfmEXcvwRk</string>
+
+</resources>
