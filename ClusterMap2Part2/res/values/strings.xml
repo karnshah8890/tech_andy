@@ -7,6 +7,6 @@
     <string name="point_number_x">Point #%1$s</string>
     
     
-    <string name="maps_api_key">AIzaSyBYqjpco9qcKWPSOCZMa4IL0kfmEXcvwRk</string>
+    <string name="maps_api_key">Enter your Map key here.</string>
 
 </resources>
