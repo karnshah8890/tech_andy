@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterRestAPIDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="access_key">AccessKey</string>
+    <string name="access_secret">AccessSecret</string>
+
+</resources>
