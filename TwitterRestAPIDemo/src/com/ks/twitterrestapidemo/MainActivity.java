@@ -15,8 +15,8 @@ public class MainActivity extends Activity {
 
 	private final String TAG = getClass().getSimpleName();
 
-	private static String ACCESS_KEY = "250099150-XYN3XM0hKJGhJM1AOTvYesoYRi5WJTyHkMoSRIbS";
-	private static String ACCESS_SECRET = "ssC9Cn4fbwKNcpgWmU8Mx4TzvOjQ4Tz25qdov00avk";
+	private static String ACCESS_KEY = "project access key.";
+	private static String ACCESS_SECRET = "project access secret";
 	private ListView listView;
 
 	@Override
